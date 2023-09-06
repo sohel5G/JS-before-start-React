@@ -1,0 +1,78 @@
+1. Variable 
+2. Condition 
+3. Array
+4. Loop 
+5. functions
+6, Object 
+
+
+
+// Es 6 
+1. Template String ``
+2. arrow functions 
+3. Spread operator 
+4. Array Method ()
+    map()
+    forEach()
+    filter()
+    find()
+    reduce()
+
+5. Destructuring
+6. Fetch (JSON)
+    fetch(url).then(response=>response.json()).then(data=>conole.log(data))
+7. Object, keys() and values()
+8. truthy and falsy
+
+
+9. Local store and session 
+
+
+
+
+
+
+/* Imrul Vai Given */ 
+
+
+JS you need to know to work with React:
+=======================================
+1. Variable (Let & Const) 
+2. Condition (<, >, ===, ==, !==, !=, <=, >=, !, &&, ||) 
+3. Array (Index, length, push,) 
+4. Loop (for, while, do_while)
+5. Function (declear, call)
+6. Object (declear, accesss property)
+
+ES6
+7. Template String(``) 
+8. Arrow function (() => {})
+9. Spread operator (...) 
+
+Array Methods
+10. arr.map((value, index, arr) => {})
+11. arr.forEach((value, index, arr) => {})
+12. arr.filter((value, index, arr) => {})
+13. arr.find((value, index, arr) => {})
+
+Destructure
+14. Array destructure (let [x, y] = [34, 65])
+15. Object destructure (let {name, age} = {name: 'someone', age: 32}) 
+
+Fetch
+16. JSON (stringify(), parse())
+17. Fetch (fetch('url').then(res => res.json()).then(data => {}))
+18. Object (Object.keys(), Object.values())
+19. for of, for in 
+20. add or remove from an array
+
+21. truthy('anyString', 5, true, {}, []), falsy('', 0, false, null, undefined)
+22. Ternary operator ( condition ? true value : false value ) (&&, ||) 
+23. Number to string ( num = 23; numString = num + '')
+24. String to Number ( stringNum = '344'; num = +stringNum) 
+25. Toggle (isActive = !isActive) 
+
+Storage 
+26. localStorage (setItem, getItem) 
+
+27. Dot notation vs bracket notation
